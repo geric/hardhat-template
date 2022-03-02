@@ -1,5 +1,7 @@
 # Hardhat Starter Project
 
+Hardhat Starter Project using yarn and typescript.
+
 ### References
 [Project Setup](https://hardhat.org/guides/project-setup.html)  
 [Hardhat + typescript](https://hardhat.org/guides/typescript.html)  
